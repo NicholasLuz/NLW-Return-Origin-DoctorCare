@@ -22,6 +22,8 @@ DoctorCare is a instructional page in the One Page format, responsive, to be use
 ## 🔖 Layout
 
 You can check the layout of the project through [this link](https://www.figma.com/community/file/1102912263666619803). It is necessary to have a [Figma](https://figma.com) account to access it.
+  
+---
 
 This project was developed during Rocketseat`s Next Level Week Return Origin.
 
